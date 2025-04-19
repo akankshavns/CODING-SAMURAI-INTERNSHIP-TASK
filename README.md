@@ -1,2 +1,3 @@
 # CODING-SAMURAI-INTERNSHIP-TASK
-A Internship Repository
+A Internship Repository .
+This repository contain two  task.
